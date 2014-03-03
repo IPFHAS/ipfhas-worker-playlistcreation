@@ -20,7 +20,7 @@ public class IpfhasWorkerPlaylistCreation {
 	/** 
 	 * Worker name 
 	 */
-	private static final String FUNCTION_NAME = "videoCompression";
+	private static final String FUNCTION_NAME = "playlistCreation";
 
 	/** 
 	 * Gearman Server Address 
